@@ -1,0 +1,8 @@
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\bin\Debug\DataSource-Programming-C-sharp.exe.config
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\bin\Debug\DataSource-Programming-C-sharp.exe
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\bin\Debug\DataSource-Programming-C-sharp.pdb
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\obj\Debug\DataSource-Programming-C-sharp.csprojResolveAssemblyReference.cache
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\obj\Debug\DataSource_Programming_C_sharp.Properties.Resources.resources
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\obj\Debug\DataSource-Programming-C-sharp.csproj.GenerateResource.Cache
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\obj\Debug\DataSource-Programming-C-sharp.exe
+D:\c#\DataSource-Programming-C-sharp\DataSource-Programming-C-sharp\obj\Debug\DataSource-Programming-C-sharp.pdb
